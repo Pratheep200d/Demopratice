@@ -1,0 +1,38 @@
+package atm;
+
+public class DetailCollection {
+	
+private String name;
+private int password;
+private int cash;
+
+DetailCollection(String name,int password,int cash){
+	this.name = name;
+	this.password=password;
+	this.cash =cash;
+	
+	
+}
+public int getCash() {
+	return cash;
+}
+
+public void setCash(int cash) {
+	this.cash = cash;
+}
+
+public String getName() {
+	return name;
+}
+public void setName(String name) {
+	this.name = name;
+}
+public int getPassword() {
+	return password;
+}
+public void setPassword(int password) {
+	this.password = password;
+}
+
+
+}
