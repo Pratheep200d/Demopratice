@@ -11,7 +11,8 @@ DetailCollection(String name,int password,int cash){
 	this.password=password;
 	this.cash =cash;
 	
-	
+	System.out.println("THe work space ");
+	System.out.println("this is a new code ");
 }
 public int getCash() {
 	return cash;
