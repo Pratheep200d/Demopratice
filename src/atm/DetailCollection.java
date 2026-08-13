@@ -16,6 +16,10 @@ DetailCollection(String name,int password,int cash){
 	System.out.println("thisis ne code by pratheep");
 	System.out.println("thisis ne code by pratheep2");
 
+	System.out.print("this is new code ");
+	System.out.print("we have made the code archd dex team");
+	System.out.print("we have made the code archd dex team");
+
 }
 public int getCash() {
 	return cash;

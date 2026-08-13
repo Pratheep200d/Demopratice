@@ -14,6 +14,11 @@ public class Excuetion {
 		 pin = input.nextInt();
 		
 	}
+	void Excuetionx(){
+		System.out.println("enter the name");
+		
+		
+	}
 	public  void check( ArrayList<DetailCollection> ED ) {
 	 for(DetailCollection D1: ED) {
 		 boolean found = false;
