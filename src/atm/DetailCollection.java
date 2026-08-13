@@ -13,6 +13,9 @@ DetailCollection(String name,int password,int cash){
 	
 	System.out.println("THe work space ");
 	System.out.println("this is a new code ");
+	System.out.println("thisis ne code by pratheep");
+	System.out.println("thisis ne code by pratheep2");
+
 }
 public int getCash() {
 	return cash;
