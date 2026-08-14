@@ -26,6 +26,9 @@ DetailCollection(String name,int password,int cash){
 public int getCash() {
 	return cash;
 }
+public int getCash() {
+	return cash;
+}
 
 public void setCash(int cash) {
 	this.cash = cash;
