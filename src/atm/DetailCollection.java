@@ -20,6 +20,7 @@ DetailCollection(String name,int password,int cash){
 	System.out.print("we have made the code archd dex team");
 	System.out.print("we have made the code archd dex team");
 
+	System.out.print("this is the new release code");
 }
 public int getCash() {
 	return cash;
